@@ -2,6 +2,17 @@ body {
   background-color: #e5e5e5;
   margin: 30px;
 }
-.title {
+.title-block {
   text-align: center;
+}
+.title-block:hover {
+  opacity: 70%;
+}
+.name {
+  font-weight: lighter;
+  font-size: 30px;
+  margin-top: 5px;
+}
+.fire-pen {
+  width: 300px;
 }
