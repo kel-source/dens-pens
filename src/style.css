@@ -1,6 +1,5 @@
 body {
   background-color: #e5e5e5;
-  margin: 30px;
 }
 h6 {
   font-weight: lighter;
@@ -11,11 +10,19 @@ h6 {
   text-align: right;
 }
 
+.container {
+  max-width: 97%;
+}
 .title-block {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
 }
 .title-block:hover {
+  color: black;
   opacity: 70%;
+  text-decoration: none;
 }
 .name {
   font-weight: lighter;
