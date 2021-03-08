@@ -14,15 +14,15 @@ h6 {
   max-width: 97%;
 }
 .title-block {
-  display: flex;
-  justify-content: center;
-  text-decoration: none;
+  display: table;
+  margin: 0 auto;
   color: black;
 }
 .title-block:hover {
   color: black;
   opacity: 70%;
   text-decoration: none;
+  cursor: pointer;
 }
 .name {
   font-weight: lighter;
