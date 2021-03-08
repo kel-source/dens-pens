@@ -2,6 +2,15 @@ body {
   background-color: #e5e5e5;
   margin: 30px;
 }
+h6 {
+  font-weight: lighter;
+  font-size: xx-small;
+  color: lightgray;
+  margin-top: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: right;
+}
+
 .title-block {
   text-align: center;
 }
@@ -15,4 +24,8 @@ body {
 }
 .fire-pen {
   width: 300px;
+}
+.link {
+  text-decoration: none;
+  color: #5fa1d3;
 }
