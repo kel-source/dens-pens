@@ -32,6 +32,13 @@ h6 {
 .homepage-pens {
   width: 33%;
 }
+.button-link {
+  color: black;
+}
+.button-link:hover {
+  color: black;
+  text-decoration: none;
+}
 .open-source-link {
   text-decoration: none;
   color: #5fa1d3;
