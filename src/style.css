@@ -27,6 +27,10 @@ h6 {
   text-decoration: none;
   cursor: pointer;
 }
+.about-contents {
+  max-width: 80%;
+  margin: 0 auto;
+}
 .name {
   font-weight: lighter;
   font-size: 30px;
@@ -49,4 +53,10 @@ h6 {
 .open-source-link {
   text-decoration: none;
   color: #5fa1d3;
+}
+
+@media (max-width: 1024px) {
+  .about-contents {
+    max-width: 95%;
+  }
 }
