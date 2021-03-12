@@ -4,6 +4,10 @@ html {
 body {
   background-color: #e5e5e5;
 }
+
+footer {
+  max-width: 98%;
+}
 h6 {
   font-weight: lighter;
   font-size: xx-small;
